@@ -1,0 +1,19 @@
+{
+  "name": "Faisal Al-Taha Contracting Co. Ltd.",
+  "short_name": "Faisal Al-Taha",
+  "description": "Road contracting, asphalt works, earthworks and infrastructure — Riyadh, Saudi Arabia. Since 2001.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#faf8f3",
+  "theme_color": "#12161c",
+  "lang": "ar",
+  "dir": "rtl",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
